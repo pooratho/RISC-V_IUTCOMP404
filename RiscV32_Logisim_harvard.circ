@@ -1764,7 +1764,7 @@
       <a name="halign" val="left"/>
       <a name="text" val="AUIPC_Result"/>
     </comp>
-    <comp lib="9" loc="(1080,1367)" name="Text">
+    <comp lib="9" loc="(1080,1365)" name="Text">
       <a name="color" val="#b32769"/>
       <a name="font" val="SansSerif bold 12"/>
       <a name="halign" val="left"/>
@@ -1869,8 +1869,6 @@
     <wire from="(1100,750)" to="(1740,750)"/>
     <wire from="(1110,1200)" to="(1110,1310)"/>
     <wire from="(1110,1200)" to="(1170,1200)"/>
-    <wire from="(1110,1330)" to="(1110,1350)"/>
-    <wire from="(1110,1350)" to="(1570,1350)"/>
     <wire from="(1120,1250)" to="(1120,1260)"/>
     <wire from="(1120,1250)" to="(1130,1250)"/>
     <wire from="(1120,1320)" to="(1720,1320)"/>
@@ -1904,7 +1902,6 @@
     <wire from="(1570,850)" to="(1610,850)"/>
     <wire from="(1570,870)" to="(1630,870)"/>
     <wire from="(1570,890)" to="(1650,890)"/>
-    <wire from="(1570,930)" to="(1570,1350)"/>
     <wire from="(1590,570)" to="(1590,810)"/>
     <wire from="(1590,570)" to="(1720,570)"/>
     <wire from="(1610,850)" to="(1610,1040)"/>
