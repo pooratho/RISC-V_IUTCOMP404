@@ -1758,9 +1758,11 @@
     </comp>
     <comp lib="5" loc="(600,680)" name="S-R Flip-Flop">
       <a name="appearance" val="logisim_evolution"/>
+      <a name="trigger" val="falling"/>
     </comp>
     <comp lib="5" loc="(720,680)" name="S-R Flip-Flop">
       <a name="appearance" val="logisim_evolution"/>
+      <a name="trigger" val="falling"/>
     </comp>
     <comp lib="9" loc="(1205,1840)" name="Text">
       <a name="color" val="#550e7a"/>
@@ -1881,7 +1883,7 @@
     <wire from="(1110,1350)" to="(1680,1350)"/>
     <wire from="(1110,1750)" to="(1110,1910)"/>
     <wire from="(1110,1910)" to="(1110,1980)"/>
-    <wire from="(1110,1910)" to="(1160,1910)"/>
+    <wire from="(1110,1910)" to="(1140,1910)"/>
     <wire from="(1110,1980)" to="(3250,1980)"/>
     <wire from="(1110,380)" to="(2430,380)"/>
     <wire from="(1110,410)" to="(2400,410)"/>
@@ -1907,12 +1909,13 @@
     <wire from="(1140,1020)" to="(1140,1180)"/>
     <wire from="(1140,1020)" to="(1190,1020)"/>
     <wire from="(1140,1180)" to="(1250,1180)"/>
+    <wire from="(1140,1880)" to="(1140,1910)"/>
+    <wire from="(1140,1880)" to="(1190,1880)"/>
+    <wire from="(1140,1910)" to="(1160,1910)"/>
     <wire from="(1150,1060)" to="(1190,1060)"/>
     <wire from="(1150,1240)" to="(1150,1500)"/>
     <wire from="(1150,1240)" to="(1200,1240)"/>
-    <wire from="(1150,1500)" to="(1150,1880)"/>
     <wire from="(1150,1500)" to="(1940,1500)"/>
-    <wire from="(1150,1880)" to="(1190,1880)"/>
     <wire from="(1150,860)" to="(1150,1060)"/>
     <wire from="(1150,860)" to="(3920,860)"/>
     <wire from="(1160,1040)" to="(1190,1040)"/>
