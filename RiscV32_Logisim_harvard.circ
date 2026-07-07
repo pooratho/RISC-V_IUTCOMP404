@@ -139,8 +139,7 @@
       <a name="addrWidth" val="24"/>
       <a name="appearance" val="logisim_evolution"/>
       <a name="contents">addr/data: 24 32
-113 193 213 293 100093 40006f 200113 80006f
-a00293 300193 40006f 400213
+93 113 513 80006f 6f00093 a00513 63
 </a>
       <a name="dataWidth" val="32"/>
     </comp>
@@ -1785,6 +1784,7 @@ a00293 300193 40006f 400213
     </comp>
     <comp lib="5" loc="(4040,1760)" name="D Flip-Flop">
       <a name="appearance" val="logisim_evolution"/>
+      <a name="trigger" val="falling"/>
     </comp>
     <comp lib="5" loc="(4160,1760)" name="D Flip-Flop">
       <a name="appearance" val="logisim_evolution"/>
