@@ -139,7 +139,7 @@
       <a name="addrWidth" val="24"/>
       <a name="appearance" val="logisim_evolution"/>
       <a name="contents">addr/data: 24 32
-100093 8002ef 200113 300193 400213 600313
+100093 80006f 6300113 300193 63
 </a>
       <a name="dataWidth" val="32"/>
     </comp>
